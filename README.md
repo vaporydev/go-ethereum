@@ -1,4 +1,4 @@
-## Go Ethereum
+## Go Vapory
 
 Official Golang implementation of the Ethereum protocol.
 
